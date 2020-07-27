@@ -4,5 +4,4 @@ This repository is the source of various example of Java FX's implementation. It
 ## Java FX Applications.
 
 ### 1. Hello World Program with Gradle setup.
-For this program and rest other programs I have used Oracle Java SDK-11, Java Fx Gradle plugins org.openjfx.javafxplugin (version: 0.0.9) and Intellij Community Edition(2018.3.6) as development IDE.
-To understand gradle configuration please check the gradle.build file under hello-world project. 
+For this program and rest other programs I have used *Oracle Java SDK-11*, Java Fx Gradle plugins *org.openjfx.javafxplugin (version: 0.0.9)* and *Intellij Community Edition(2018.3.6)* as development IDE. To understand gradle configuration please check the gradle.build file under hello-world project. 
